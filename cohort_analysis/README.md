@@ -10,13 +10,16 @@ In cohort analysis, a cohort is the group of customers being analyzed. More spec
 Identify clear patterns across different customer groups and use that information to better identify problems, satisfy customers’ needs, and design engagement strategies.
 
 ### Benefits of cohort analysis
-1. **Know how user behaviors affect your business.** 
-Mencari tahu apakah sebuah aksi/atribut tertentu yang dilakukan/tidak dilakukan pelanggan bisa menyebabkan terjadinya hal lain. Misalnya, menguji hipotesis apakah *sign-ups* yang terjadi karena adanya suatu promosi mendorong terjadinya **greater churn**.
-2. **Calculate customer lifetime value**
+1. **Know how user behaviors affect your business**  
+Mencari tahu apakah sebuah aksi/atribut tertentu yang dilakukan/tidak dilakukan pelanggan bisa menyebabkan terjadinya hal lain. Misalnya, menguji hipotesis apakah ***sign-ups*** yang terjadi **karena adanya suatu promosi mendorong** terjadinya **greater churn**.
+
+2. **Calculate customer lifetime value**  
 Analyzing cohorts based on acquisition time period allows you to see how much customers are worth to the company over time. You can then further group these cohorts by time, segment, and size to assess which acquisition channels lead to the best customer lifetime value (CLV).
-3. **Optimize your conversion funnel**
+
+3. **Optimize your conversion funnel**  
 Kita bisa mengetahui nilai dari setiap pelanggan berdasarkan **pengalaman pengguna di setiap kanal pemasaran** dengan membandingkan pelanggan berdasarkan **cara mereka terlibat dalam proses penjualan** perusahaan pada **periode waktu tertentu**.
-4. **Create more effective customer engagement**
+
+4. **Create more effective customer engagement**  
 Dengan mengetahui jawaban dari poin ketiga di atas, kita dapat meningkatkan efektivitas metode customer engagement yang kita terapkan.
 
 
